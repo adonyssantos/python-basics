@@ -74,7 +74,7 @@ print(x * y) # 200
 3. Variable names cannot contain special characters.
 4. Variable names cannot contain the programing language reserved words.
 5. Variable name can contain letters, numbers, and underscores.
-6. Variable names can be in camel case, snake case, or even kebab case.
+6. Variable names can be in snake case.
 7. Variable names can be descriptive.
 
 ## Data Types in Python
